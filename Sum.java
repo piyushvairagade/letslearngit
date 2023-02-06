@@ -4,6 +4,7 @@ public class Sum{
         int a = 10;
         int b = 20;
         System.out.println("Sum is :"+(a+b));
+        System.out.println("Addition IS0"+(a*b));
     }
 
 }
